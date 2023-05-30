@@ -3,6 +3,10 @@
 some description!!
 
 
-#more
+##subheader
 
 adding soem extra info
+
+##Local Development:
+
+1. open index.html in your browser
